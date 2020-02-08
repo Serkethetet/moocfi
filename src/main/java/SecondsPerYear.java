@@ -1,4 +1,4 @@
-public class SecndsPerYear {
+public class SecondsPerYear {
     public static void main(String[] args) {
         int seconds = 60;
         int minutes = 60;
