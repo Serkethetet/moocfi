@@ -1,3 +1,5 @@
+package week1;
+
 public class Addition {
     public static void main(String[] args) {
         int summand1 = 5;

@@ -1,3 +1,5 @@
+package week1;
+
 public class VaryingVariables {
     public static void main(String[] args) {
         int chickens = 3;

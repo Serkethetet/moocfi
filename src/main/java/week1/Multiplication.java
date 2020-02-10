@@ -1,3 +1,5 @@
+package week1;
+
 public class Multiplication {
     public static void main(String[] args) {
         int factor1 = 2;
